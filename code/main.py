@@ -10,6 +10,7 @@ client = OpenAI(
     api_key='EMPTY', 
 )
 
+
 # Function to send a prompt to the model and return the response
 def openai_api_predict(model, query):
     response = client.chat.completions.create(
@@ -51,12 +52,12 @@ if __name__ == '__main__':
         This is a named entity recognition task, which consists of two steps:
         1) First, identify all entity mentions in the text.
         2) Then classify each mention into one of the following categories:
-        ['LOC', 'STREET', 'BUILDING'].
+        ["LOC", "STREET", "BUILDING"].
 
         Given the following text:
         {text}
 
-        Output format: {{'LOC': [...], 'STREET': [...], 'BUILDING': [...]}}
+        Output format: {{"LOC": [...], "STREET": [...], "BUILDING": [...]}}
         Do not provide any explanation.
         '''
 
