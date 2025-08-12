@@ -93,9 +93,11 @@ def evaluate_ner(gt_path, pred_path):
 
 if __name__ == '__main__':
     # 替换为你的 ground truth 和预测文件路径
+    model_name = "Qwen/Qwen2.5-3B-Instruct"
+    
     gt_path = "/scratch/project_2005072/keshu/cascade-camp-hands-on/data/topres19th/HIPE-prep.json"
-    pred_path = "output/Qwen/Qwen2.5-3B-Instruct_ner.json"
-    output_path = "output/Qwen/Qwen2.5-3B-Instruct_ner_f1_result.json"
+    pred_path = f"output/{model_name}_ner.json"
+    output_path = f"output/{model_name}_ner_f1_result.json"
 
     per_type_scores, overall_scores = evaluate_ner(gt_path, pred_path)
 
