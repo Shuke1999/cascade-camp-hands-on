@@ -2,6 +2,8 @@ import json
 from pathlib import Path
 from collections import defaultdict
 from sklearn.metrics import precision_score, recall_score, f1_score
+import os
+import getpass
 
 def load_json(path):
     with open(path, 'r', encoding='utf-8') as f:
@@ -96,8 +98,14 @@ if __name__ == '__main__':
     model_name = "Qwen/Qwen2.5-3B-Instruct"
     
     gt_path = "/scratch/project_2005072/keshu/cascade-camp-hands-on/data/topres19th/HIPE-prep.json"
-    pred_path = f"output/{model_name}_ner.json"
-    output_path = f"output/{model_name}_ner_f1_result.json"
+    preset_dir = os.getenv('PRED_DIR')
+    if preset_dir:
+        user_out_dir = Path(preset_dir)
+    else:
+        username = os.getenv('USER') or os.getenv('USERNAME') or getpass.getuser()
+        user_out_dir = Path('output') / username
+    pred_path = str(user_out_dir / f"{model_name}_ner.json")
+    output_path = str(user_out_dir / f"{model_name}_ner_f1_result.json")
 
     per_type_scores, overall_scores = evaluate_ner(gt_path, pred_path)
 
@@ -106,6 +114,7 @@ if __name__ == '__main__':
         "overall": overall_scores
     }
 
+    Path(output_path).parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 

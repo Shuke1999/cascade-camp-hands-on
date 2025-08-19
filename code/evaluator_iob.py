@@ -3,6 +3,8 @@ import re
 from pathlib import Path
 import pandas as pd
 from evaluate import load
+import os
+import getpass
 
 
 def tag_tokens(text, entities_dict):
@@ -81,12 +83,20 @@ def evaluate_ner(preds_iob, groundtruth_iob, output_metrics_path):
 
 if __name__ == '__main__':
     # paths
-    pred_json_path = "output/Qwen/Qwen2.5-3B-Instruct_ner.json"
+    preset_dir = os.getenv('PRED_DIR')
+    if preset_dir:
+        user_out_dir = Path(preset_dir)
+    else:
+        username = os.getenv('USER') or os.getenv('USERNAME') or getpass.getuser()
+        user_out_dir = Path('output') / username
+    user_out_dir.mkdir(parents=True, exist_ok=True)
+
+    pred_json_path = str(user_out_dir / "Qwen/Qwen2.5-3B-Instruct_ner.json")
     gt_json_path = "/scratch/project_2005072/keshu/cascade-camp-hands-on/data/topres19th/HIPE-prep.json"
 
-    pred_iob_path = "/scratch/project_2005072/keshu/cascade-camp-hands-on/data/pred_iob.tsv"
-    gt_iob_path = "/scratch/project_2005072/keshu/cascade-camp-hands-on/data/gt_iob.tsv"
-    eval_result_path = "output/Qwen2.5-3B-Instruct_ner_eval_iob_results.tsv"
+    pred_iob_path = str(user_out_dir / "pred_iob.tsv")
+    gt_iob_path = str(user_out_dir / "gt_iob.tsv")
+    eval_result_path = str(user_out_dir / "Qwen2.5-3B-Instruct_ner_eval_iob_results.tsv")
 
     # convert to IOB
     json_to_iob(pred_json_path, pred_iob_path)

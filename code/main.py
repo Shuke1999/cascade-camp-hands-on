@@ -4,6 +4,8 @@ import json
 import tqdm
 from pathlib import Path
 import traceback  # for better error logging
+import os
+import getpass
 
 client = OpenAI(
     base_url='http://localhost:8000/v1',
@@ -43,7 +45,13 @@ if __name__ == '__main__':
     data_dir = data_path / 'topres19th/HIPE-prep.json'
     qas = read_json(data_dir)
     preds = []
-    pred_dir = f'output/{model_name}_{test_name}.json'
+    preset_dir = os.getenv('PRED_DIR')
+    if preset_dir:
+        user_out_dir = Path(preset_dir)
+    else:
+        username = os.getenv('USER') or os.getenv('USERNAME') or getpass.getuser()
+        user_out_dir = Path('output') / username
+    pred_dir = str(user_out_dir / f'{model_name}_{test_name}.json')
 
     for qa in tqdm.tqdm(qas):
         text = qa['text']

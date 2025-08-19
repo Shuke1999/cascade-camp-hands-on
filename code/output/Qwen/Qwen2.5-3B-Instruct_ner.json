@@ -8,7 +8,7 @@
                 "MELBOURNE",
                 "TASMANIA",
                 "LAUNCESTON",
-                "HOBART TOWN"
+                "HOBBART TOWN"
             ],
             "STREET": [],
             "BUILDING": [
@@ -41,7 +41,6 @@
                 "New York",
                 "London",
                 "Leeds",
-                "Bristol",
                 "Birmingham",
                 "Liverpool"
             ],
@@ -53,9 +52,9 @@
         "text": "SCOTLAND. Extraordinary Lunacy Case. A seven days jury trial was concluded at Edinburgh on Friday laßt, in which Mr. Angus Macintosh, of Holme, a proprietor in Invernessshire, in possession of estates yielding him several thousands a year, sought £5,000 damages from Dr. John Smith and Dr. Lowe, proprietors of Saughton-Hall Asylum, a first-class private institution for the insane, on the ground of wrongous and illegal detention there. The detention took place so far back as from the 13th of June to the 20th of July, 1852, when, through connivance of one of the keepers, Mr. Macintosh succeeded in escaping. An action was brought against the defenders in 1853, but was abandoned, and a similar suit was at the same time instituted against Drs. Glover and Weir, who signed the medical certificate, and Mr. Hugh Fraser, writer to the Signet, who applied to the sheriff for a warrant for the pursuers confinement. On the 29th of July, 1859, after a five days trial, the jury returned an unanimous verdict that the pursuer was insane at the time, and was justifiably sent to the asylum and detained there. The present action against his custodiers was instituted °nly in May, 1863, and now came to trial. The jury were absent about three hours, and returned a verdict hy nine to three in favour of the defenders, a recent statute in Scotland enabling a divided jury in Scotland to give a verdict by three-fourths of their number alter three hours deliberation. The verdict was received in court with loud cheering and some hissing.",
         "preds": {
             "LOC": [
+                "Scotland",
                 "Edinburgh",
-                "Invernessshire",
-                "Scotland"
+                "Invernessshire"
             ],
             "STREET": [],
             "BUILDING": [
@@ -69,7 +68,7 @@
         "preds": {
             "LOC": [
                 "Kensal Green Cemetery",
-                "London"
+                "Thackeray's sepulture"
             ],
             "STREET": [
                 "Harrow-road"
@@ -98,13 +97,13 @@
                 "SALISBURY",
                 "Basingstoke",
                 "Wilts",
-                "Dorset"
+                "Dorset",
+                "Wiltshire",
+                "Bath and West of England Society"
             ],
             "STREET": [],
             "BUILDING": [
                 "Salisbury Training School",
-                "Critchell House",
-                "Stourhead",
                 "Critchell House",
                 "Stourhead",
                 "Ashmore",
@@ -122,13 +121,16 @@
                 "Gosport",
                 "Longparish",
                 "Whitechurch",
-                "Andover",
-                "Bath",
-                "Hants County Hospital"
+                "Andover"
             ],
             "STREET": [],
             "BUILDING": [
-                "Guildhall"
+                "Guildhall",
+                "Town of Gosport",
+                "Barn",
+                "Coach-house",
+                "Stables",
+                "Large barn"
             ]
         }
     },
@@ -139,6 +141,7 @@
                 "WILTSHIRE",
                 "Salisbury",
                 "Malmesbury",
+                "Potterne",
                 "Brembill",
                 "West Laviogton",
                 "Devizes"
@@ -147,15 +150,18 @@
                 "King’s Arms Inn",
                 "Black Horse Inn"
             ],
-            "BUILDING": []
+            "BUILDING": [
+                "King’s Arms Inn",
+                "Black Horse Inn"
+            ]
         }
     },
     {
         "text": "FRANCE AND PORTUGAL. Don Pedro has quitted England, and there is no doubt that he will solicit the” aid of France for the recovery of Portugal, and it is affirmed that there is as liule doubt but he will obtain it. It is reported that be did not leave England without repeatedly and urgently pressing the necessity of preventing his having recourse to any other power for aid ; and also that his anxious wishes were to obtain such aid or countenance from England as would prevent him from applying to France. It must therefore be clear, that if France should adopt his cause, and that cause prove successful, as it undoubtedly must under such circumstances, every advantage fiossessed by England, whether political or commercial, will be ost, and the honour and advantage of interference will be enjoyed exclusively by France. Every thing regarding the foreign policy of England appears under the present men to be in a gross state of mismanagement; and if we are to go on as we have lately done, it is evident that one or other of these things must occur; we must either submit to the loss of all political and commercial influence abroad—adopt a policy of interference in favour of freedom in other states—or in order to prevent the injury to our commerce and political character which would arise from the adoption of such a policy by France, go to v.vcjvMhJduilonea, ana fo effect this, it must fie evident toa cbmmon observer, that we must dissolve our present connection with that government, and enter into a closer intimacy with the conservative, though despotic governments of the north of Europe ; if we do not this, we must submit to an inglorious, and in the end. a ruinous system of inaction, and become a nation of lookers-on— whilst France, by a more active and vigorous policy, is quietly superseding our influence and power in every nation of Europe.",
         "preds": {
             "LOC": [
-                "England",
-                "Portugal"
+                "FRANCE",
+                "PORTUGAL"
             ],
             "STREET": [],
             "BUILDING": []
@@ -178,12 +184,11 @@
         "preds": {
             "LOC": [
                 "Blandford",
-                "Blandfoid Forum",
-                "Salisbury-street"
+                "Blandford Forum"
             ],
             "STREET": [],
             "BUILDING": [
-                "MANSION-HOUSK",
+                "MANSION-HOUSE",
                 "Capital and Substantial MANSION-HOUSK",
                 "Close of MEADOW or PASTURE",
                 "Close of valuable and excellent MEADOW or PASTURE"
@@ -194,16 +199,17 @@
         "text": "TO BE DISPOSED OF, A GREEN-HOUSE, with a Glass Roof, 30 feet long, in excellent repair, lata the property of a Lady deceased. Apply, if by letter the postage to be paid, to Air. C. HOARE, Builder, Beaminster, Dorset. —Also, a choice collection of Plants. SHILLINGSTONE, DORSET. Six miles from Ulandfotd, 4 from Sturminster Newton, 9 from Shaston South Down Couples, Pur and CKner Hogs, Cart Horses, Farming Implements, S^c. TO BE SOLD BY AUCTION, By O. MONK. On the Premises, without reserve, on Wednesday, the 25th day of March, 1829, THE following Live STOCK, FARMING IMPLEMENTS, &c, of O. T. JACOB, Esq., declining the Farming Business: consisting of 112 four and six-tooth ewes with their lambs, 72 pur sndchtlverhogs(ailof the South Down breed,) 3 valuable cart horses, 1 ditto mare, 5 pair of trace harness, 4 pair of thill ditto, 7 pair of plough ditto with back ties and iron traces, hoops and belli for & horses, 4 collar bows, (! Ron rein head stalls, 3 good waggons with iron arms, 3 good putti with ditto: 1 raved cart with ditto, market cart with ditto, 2 ploughs and tackle, 2 iron drags, tormenters, 3 iron harrows, wood liitto, 2 good rollers, 3 rick staddles with 7 stones and caps, 1 ditto with 9 stones and caps, reed press, ox break, ladders, 3 dozen sack bags, bushel and half bushel measures, Amesbury heaver and vires, fan and stacks, with the whole of the bsm implements, patent bean bruiser (by Perkins,) com bins, cowand sheep cribs, com and hay prongs, rakes, iron bar, 8 dozen hurdles, stable lantbom, with other hus. bandry implements, ani a quantity of potatoes. The Sheep are well bted, in good condition, and need no further comment. The Hones are in their prime, sound, staunch to collar, ate fit for immediate use, having been constantly worked. The Staddles are quite perfect, the Stones and Wood having been used but a few years. The whole of the Implements arc good. Refreshment at 13 o’clock ; the Sale precisely atone. Shillings tone la os the Turnpike Road leading from Blandford to Slurmmster Newton.",
         "preds": {
             "LOC": [
-                "Beaminster, Dorset",
+                "Beaminster",
                 "Shaston South Down",
-                "Blandford",
-                "Slumser Newton"
+                "Ulandfotd",
+                "Sturminster Newton",
+                "South Down"
             ],
             "STREET": [
-                "Turnpike Road"
+                "Shillings tone la os the Turnpike Road leading from Blandford to Slurmmster Newton"
             ],
             "BUILDING": [
-                "Green-house"
+                "Green-House"
             ]
         }
     },
@@ -235,24 +241,25 @@
         "preds": {
             "LOC": [],
             "STREET": [],
-            "BUILDING": [
-                "COLONIES"
-            ]
+            "BUILDING": []
         }
     },
     {
         "text": "WEYMOUTH;—WKDN IiSDAY, May 27. Among the arrivals of the week are Sir Edward and Lady Poore, Col. PlcyJell, Mr. and Mrs. Richardson, Mr. and Mias Batten, Mr. Ferrell, Mr. H. Gear. Mr. G. F. Cooper, Mr. Suckburgh, Mr. Philip, Mr. Sterling, Mr. Cooper, Mr. and.Mrs. Philips,and Alisa Wyatt. Mr. and Mrs. Fullerton are just arrived at the Royal Hotel from a visit to their worthy relative General Oattli, and have taken No. 2. on the Royal Terrace. On Friday last Mrs. Radclyffe gave a most elegant dejeottf a lafourchette to the Officers of the 6th Carabineers and a select party at the family residence. No. 8, in the Belridere. The proprietors of the Libraries, Inns, and Lodging Houses, nave completed the necessary embellishments for the reception of the nobility and gentry, each endeavouring to outvie the other in their accommodation*. The new establishment at the Royal Hotel, also, have not been behind hand in finishing their new and improved arrangements. In addition to the improvement of the neat Marine Villar, situated on Greenhill, near Brunswick-buildings, which were preferred and occupied last summer by Sir Edward Hartopp and other fashionable visiters, it is worthy of remark that several have also been built near the read leading to the old castle. Aluch taste is displayed in selecting spots commanding the most beautiful and interesting prospects of tht hay, the island of Portland, and the English Channel. These lelightful chateaus possess peculiar elegance in their exterior, blenled with every internal domestic arrangement, and they offer the tdditional and rare opportunity for those who are desirous of enjoying at the same time, the gayer luxuries of the town and the amg retirement of the country. —Rev. Mr. and Airs. Trenow, who laely took and furnished one of the Marine Villas, are just arrived and proceeded thither this afternoon. Mr. Vertue’s musical soitees, which have for so many years past contributed so largel] to the smr.sement of his friends and to the improvement of tnuiic in Weymouth, have lately been particularly attractive. It is hghly gratifying to witness the execution and taste of some of theyouthiul amateurs, whose splendid performances, particularly on th; harp and piano-forte, would do honour to prof essors of establishd reputation. On Monday and yesterday it blew a strong gale of wind at N.K.; two vessels belorglog to this Fort, the Providence, sloop, Capt. J. Bolt, and the Nttingham, brig, Capt. Way, in consequence, went ashore near Portbnd Castle, but it is expected they will be got off without much damigc—During the gale, the elegant Brunswick steamer, from Flymoilhto Portsmouth, with passengers, put in here, and after taking in a >upp)y of coals, started again this morning. A number of spectaton assembled on the Quay to witnesa her departure. On Monday H. M. revenue cruizer Sylvia, commanded by Lieut. Williamson, R.N., brought into this port a French boat, with four French and two English sailors, and 17 casks of spirits, captured after a chase of four hours.",
         "preds": {
             "LOC": [
-                "Weymouth"
+                "Portsmouth",
+                "Weymouth",
+                "Flymoilhto Portsmouth"
             ],
             "STREET": [],
             "BUILDING": [
                 "Royal Hotel",
+                "Royal Terrace",
                 "Belridge",
-                "Brunswick-buildings",
                 "Greenhill",
-                "Portbend Castle",
+                "Brunswick-buildings",
+                "Marine Villas",
                 "Brunswick steamer"
             ]
         }
@@ -271,12 +278,14 @@
         "text": "FAIRS AND MARKETS, WeyhillFair. —The Mop Fair opened on Monday ; the lumber of pockets grounded in the Farnhatn-row was 357 new pockets, and 100 of preceding years; total Farnhams, 537 pockets. In the Country, or (Jrondale-row, there were “Oft new pockets, and 1100 old, and old olds, making together 1150 pockets Country Hops. The prices may be quoted as under, for the early part of the fair, 1 amhams Irom X*lo to XlO per cwt.; hut at the conclusion of the fair many purchases were made from £lO to £ 12 per cwf., and in some instances as low as £t) per cwt. In the Country-row, from £ll to £lO ; but, as in the other case, at the early part of the tair. £l4 and even £lll was obtained in a purchase or two. Scarcely a sale was effected on Monday; on Tuesday business remained very dull; and on Wednesday night we may fairly state that twothirds ot the Hops then remained unsold. The growers intended standing over Thursday, after which it was concluded either to carry their unsold Hops home again, or warehouse them till Andover fair, in -November.— Cheese of the first quality, which this time twelve months sold at from 755. to 80s. per cwt., met a heavy sale from 555. to OOs. per cwt. —Horses were very numerous, and more business was comparatively done in this department than any other, though the prices were considerably less than those of last year—ln consequence of the line weather the pleasure fair was numerously and respectably attended. Melksham market on Monday was largely supplied with every description of stock, but miserably dull in respect of demand. There were but few dealers, and the purchases were very limited. Reef Its. (id. to (Is. per score ; perhaps a few prime bcas s Os. lid.; Mutton, sd. to lid. peril). The badness of the times in this dairy and grazing district of the country, hitherto tolerably free from the pressure.) is now beginning to be severely felt. The depreciated value of produce, war price rents, and public local taxes, require that an improvement or alteration should take place, or the landlords will eventually find that they have neglected their own best interest—t/ie melioration of the flute oj the labouring poor. The Silk Trade. —The letters received from Coventry on Wednesday mention that an individual who had for some time carried on business there as a riband manufacturer, and enjoyed good credit both in I.ondon as well as in Coventry, had. with his family, taken his departure for America. In a letter which he addressed to some of His London creditors, the party referred to stated that sucli had been the ruinous effect produced by the measures adopted with regard to the silk trade, and which had led to numerous compositions where small dividends were paid, that bis resources had been so much involved that he could not go on further, having lost since the beginning of the year £2OOO in bad debts. This individual advises his creditors that he has lelt behind him debts to recover, which will pay 12s. in the pound, and that he has reserved to himself Bs. in the pound to convey him abroad.",
         "preds": {
             "LOC": [
-                "Weyhill"
+                "Weyhill",
+                "Country"
             ],
             "STREET": [
                 "Farnhatn-row",
+                "Jrondale-row",
                 "Country-row",
-                "melksham market"
+                "Melksham"
             ],
             "BUILDING": []
         }
@@ -292,10 +301,11 @@
                 "GOLDEN LION INN",
                 "ROYAL DORSET",
                 "SARACENS HEAD",
-                "SUTTON HOUSE",
+                "SOUTHAMPTON",
                 "BATH",
+                "BRISTOL",
                 "NEW WHITE HORSE CELLAR",
-                "SOUTHAMPTON"
+                "HATCHETTS NEW WHITE HORSE CELLAR"
             ]
         }
     }

@@ -3,13 +3,12 @@
         "text": "AUSTRALIA AND NEW ZEALAND. NOTICE. —The dipper ships of this line are 4111101191 i Me largest, fastest, and handsomest in the world, and are famous for their unswerving punctuality, the superior way in which they are officered and appointed, and the celebrity of their passages, which rash amongst the fastest on record. THE \"WHITE STAR\" LINE OF British and Austratan Ex-Royal Mail Clippers, SAIL from LIVERPOOL for MELBOURNE on the Ist and 20th I,‘ stao of every Month, landing and forwarding Passengers at through rates and by steamers, to every port of Australia and Tasmania. Parties holding Bounty tickets for Launceston or Hobart Town will be carried out by the ships of this Line via Melbourne. The Lice is composed of the following magnificent • vessels Ship Ship Ship Morning Light. Prinre of the Seas. Sirocco. Red Jacket. White Jacket. Star of the East. White star. Mermaid. Telegraph Blue Jaci,et. Shalimar. Arabian.",
         "preds": {
             "LOC": [
-                "AUSTRALIA",
-                "NEW ZEALAND",
-                "MELBOURNE",
-                "TASMANIA",
-                "LAUNCESTON",
-                "HOBBART TOWN",
-                "LIVERPOOL"
+                "Australia",
+                "New Zealand",
+                "Melbourne",
+                "Launceston",
+                "Hobart Town",
+                "Tasmania"
             ],
             "STREET": [],
             "BUILDING": []
@@ -40,11 +39,12 @@
                 "Edinburgh",
                 "Invernessshire",
                 "Saughton-Hall Asylum",
-                "Scotland",
-                "Holme"
+                "Scotland"
             ],
             "STREET": [],
             "BUILDING": [
+                "Holme",
+                "Invernessshire",
                 "Saughton-Hall Asylum"
             ]
         }
@@ -54,8 +54,8 @@
         "preds": {
             "LOC": [
                 "Kensal Green Cemetery",
-                "Taichung",
-                "London"
+                "London",
+                "Thackeray's early schoolfellow"
             ],
             "STREET": [
                 "Harrow-road"
@@ -69,8 +69,7 @@
             "LOC": [
                 "Taunton",
                 "Bradford",
-                "Taunton and Somerset Hospital",
-                "St. Marys"
+                "Somerset"
             ],
             "STREET": [
                 "High-street"
@@ -95,7 +94,7 @@
                 "Stourton Caundle",
                 "Dorset",
                 "Ashmore",
-                "Dorset",
+                "Wilts",
                 "Bishopstone",
                 "Wilts",
                 "Tisbury",
@@ -106,41 +105,20 @@
                 "Salisbury Training School",
                 "Critchell House",
                 "Stourhead",
-                "Ashmore",
-                "Bishopstone",
-                "Tisbury"
+                "Critchill",
+                "Long Crechel",
+                "More Critchell",
+                "Tisbury",
+                "Ashmore"
             ]
         }
     },
     {
         "text": "HAMPSHIRE. On Thursday, a numerous and respectable meeting of the inhabitants of Winchester and its suburbs, friends of Reform in Parliament, was held at the Guildhall, to take into consideration the propriety of petitioning Parliament on that interesting subject. Mr. William Barnes, the Mayor, was called to the chair. The petitions have received about one thousand signatures, including those of several clergymen of the Close, and the Mayor and Aidermen and several of the members of the Corporation. A motion for lighting the town of Gosport was, we understand, submitted by Mr. Thomas Hoskins, at a meeting of the Commissioners, on Tuesday last, and unanimously adopted. John Mayo, Esq., late of Walcot, Bath, bequeathed, at his death, £bo to the Hants County Hospital, which sum has been paid to the Treasurer. Conflagration on the Premises of Col. Hawker. —On Monday morning last, about half-past three oclock, an alarming fire broke out in the rick-yard occupied by Richard Leech, Esq. of Longparish. The Whitechurch and Andover engines, under Messrs. Hayter and Reding, arrived with a rapidity that did infinite credit to all concerned. But the barn, together with an immensely large oat-rick and a rick of vetches, then presented one immense blaze, so that the neighbouring pumps were all exhausted before the fire could be got under, and they were compelled to feed the engines from the river, distant about 200 yards, by means of backets. By great exertions, four other ricks, situated within a few yards of the property consumed, were saved, as well as the coach-house and stables, which last were twice partially on fire. The property destroyed, which is worth about £ COO, consists of a large barn, with above 50 quarters of barley, a cart-house, a boat, and various implements of husbandry. The flames were not completely subduea till four o’clock in the afternoon. The lire was evidently the act of some incendiary, Mr. Leech having received a threatening letter, a few nights previously. This awful event has excited the surprise of the whole neighbourhood, as Mr. L. is universally regarded as one of the best friends to the poor in the parish, and is looked up to by them as an example for imitation, on account of his liberal payment and extensive charities. Colonel Hawker was on the spot the whole time, and was indefatigable in his exertions. ;",
         "preds": {
-            "LOC": [
-                "Hampshire",
-                "Winchester",
-                "Gosport",
-                "Longparish",
-                "Whitechurch",
-                "Andover",
-                "Bath",
-                "Hants County Hospital",
-                "Walcot",
-                "Longparish",
-                "Colonel Hawker",
-                "the whole neighbourhood"
-            ],
-            "STREET": [
-                "Sanitary District",
-                "Freeway 1",
-                "Walcot Street",
-                "Andover Road"
-            ],
-            "BUILDING": [
-                "Guildhall",
-                "Town Hall of Gosport",
-                "Hants County Hospital",
-                "Cooperage Yard of Longparish"
-            ]
+            "LOC": [],
+            "STREET": [],
+            "BUILDING": []
         }
     },
     {
@@ -157,7 +135,10 @@
                 "King’s Arms Inn",
                 "Black Horse Inn"
             ],
-            "BUILDING": []
+            "BUILDING": [
+                "King’s Arms Inn",
+                "Black Horse Inn"
+            ]
         }
     },
     {
@@ -197,9 +178,9 @@
                 "Mansion-Housk",
                 "Mansion",
                 "Close of Blandfoid Forum",
-                "Three Cottages",
-                "Stable",
-                "Close of valuable and excellent Meadow or Pasture"
+                "Close of valuable and excellent MEADOW or PASTURE",
+                "Mansion-Housk",
+                "Stable"
             ]
         }
     },
@@ -216,7 +197,9 @@
             "STREET": [
                 "Turnpike Road"
             ],
-            "BUILDING": []
+            "BUILDING": [
+                "Green-House"
+            ]
         }
     },
     {
@@ -225,10 +208,14 @@
             "LOC": [
                 "Castle of Winchester",
                 "Hamshire",
-                "Portsmouth"
+                "Portsmouth",
+                "Taichung"
             ],
             "STREET": [],
-            "BUILDING": []
+            "BUILDING": [
+                "Castle of Winchester",
+                "Taichung City Hall"
+            ]
         }
     },
     {
@@ -236,12 +223,7 @@
         "preds": {
             "LOC": [],
             "STREET": [],
-            "BUILDING": [
-                "Maidstone",
-                "Manchester",
-                "Taichung",
-                "Windsor Castle"
-            ]
+            "BUILDING": []
         }
     },
     {
@@ -249,7 +231,10 @@
         "preds": {
             "LOC": [
                 "Mauritius",
-                "Taichung"
+                "his Majesty",
+                "sugar colonies",
+                "English government",
+                "colonies"
             ],
             "STREET": [],
             "BUILDING": []
@@ -258,29 +243,9 @@
     {
         "text": "WEYMOUTH;—WKDN IiSDAY, May 27. Among the arrivals of the week are Sir Edward and Lady Poore, Col. PlcyJell, Mr. and Mrs. Richardson, Mr. and Mias Batten, Mr. Ferrell, Mr. H. Gear. Mr. G. F. Cooper, Mr. Suckburgh, Mr. Philip, Mr. Sterling, Mr. Cooper, Mr. and.Mrs. Philips,and Alisa Wyatt. Mr. and Mrs. Fullerton are just arrived at the Royal Hotel from a visit to their worthy relative General Oattli, and have taken No. 2. on the Royal Terrace. On Friday last Mrs. Radclyffe gave a most elegant dejeottf a lafourchette to the Officers of the 6th Carabineers and a select party at the family residence. No. 8, in the Belridere. The proprietors of the Libraries, Inns, and Lodging Houses, nave completed the necessary embellishments for the reception of the nobility and gentry, each endeavouring to outvie the other in their accommodation*. The new establishment at the Royal Hotel, also, have not been behind hand in finishing their new and improved arrangements. In addition to the improvement of the neat Marine Villar, situated on Greenhill, near Brunswick-buildings, which were preferred and occupied last summer by Sir Edward Hartopp and other fashionable visiters, it is worthy of remark that several have also been built near the read leading to the old castle. Aluch taste is displayed in selecting spots commanding the most beautiful and interesting prospects of tht hay, the island of Portland, and the English Channel. These lelightful chateaus possess peculiar elegance in their exterior, blenled with every internal domestic arrangement, and they offer the tdditional and rare opportunity for those who are desirous of enjoying at the same time, the gayer luxuries of the town and the amg retirement of the country. —Rev. Mr. and Airs. Trenow, who laely took and furnished one of the Marine Villas, are just arrived and proceeded thither this afternoon. Mr. Vertue’s musical soitees, which have for so many years past contributed so largel] to the smr.sement of his friends and to the improvement of tnuiic in Weymouth, have lately been particularly attractive. It is hghly gratifying to witness the execution and taste of some of theyouthiul amateurs, whose splendid performances, particularly on th; harp and piano-forte, would do honour to prof essors of establishd reputation. On Monday and yesterday it blew a strong gale of wind at N.K.; two vessels belorglog to this Fort, the Providence, sloop, Capt. J. Bolt, and the Nttingham, brig, Capt. Way, in consequence, went ashore near Portbnd Castle, but it is expected they will be got off without much damigc—During the gale, the elegant Brunswick steamer, from Flymoilhto Portsmouth, with passengers, put in here, and after taking in a >upp)y of coals, started again this morning. A number of spectaton assembled on the Quay to witnesa her departure. On Monday H. M. revenue cruizer Sylvia, commanded by Lieut. Williamson, R.N., brought into this port a French boat, with four French and two English sailors, and 17 casks of spirits, captured after a chase of four hours.",
         "preds": {
-            "LOC": [
-                "Weymouth",
-                "Portsmouth",
-                "Flymoile",
-                "Flymoilhto Portsmouth",
-                "Portbnd Castle",
-                "the English Channel",
-                "Portland",
-                "the island of Portland",
-                "the English Channel",
-                "the town",
-                "the country"
-            ],
+            "LOC": [],
             "STREET": [],
-            "BUILDING": [
-                "Royal Hotel",
-                "Royal Terrace",
-                "Belridere",
-                "Marine Villar",
-                "Brunswick-buildings",
-                "Brunswick steamer",
-                "Family residence"
-            ]
+            "BUILDING": []
         }
     },
     {
@@ -288,6 +253,8 @@
         "preds": {
             "LOC": [
                 "Cherbourg",
+                "London",
+                "Esplanade",
                 "Yarborough",
                 "Thomas",
                 "Pelham",
@@ -310,39 +277,21 @@
                 "Taichung City Hall",
                 "Farnhatn-row",
                 "Country-row",
+                "Jrondale-row",
                 "Country Hops",
                 "Andover fair",
                 "Melksham market",
-                "Reef Its",
-                "Silk Trade"
+                "Reef Its.",
+                "Coventry"
             ]
         }
     },
     {
         "text": "GOLDEN LION INN, WEYMOUTH. GP. SCOTT, with sentiments of gratitude and • respect, returns his sincere thanks to the Nobility, Gentry, Commercial Gentlemen, and the Public generally. Tor favors conferred, and assures them that no attention shall be wanting on his part to render his Establishment replete with every comfort, which being combined with moderate charges, he flatters himself willensure hifai their future patronage, *s* The Stables, having been re-built,will be found superior. £> An Ordinary every day at one o’clock. The following COACHES leave the above INN, viz. ■ The MAGNET for LON DON, every at • quarter before 5; arrives at Hatchets New White Horse Cellar, the same evening at 8; the Saracens Head, Snow Hill, and the Belle Sauvage, Ludgate Hill, at 9 o’clock | leavaa the latter named Inns every morning at fi o’clock; and the New White Horse Cellar, at 0. ROYAL DORSET to BRISTOL, every Monday, Wednesday, and Friday, at half.past 7 oclock. A COACH to SOUTHAMPTON, every morning at a quarter before 6, Sundays excepted. A COACH to BATH, Mondays, Wednesdays, and Fridays, at half-past 7 o’clock. Performed by G. P. SCOTT and Co., Who will not be accountable for any Parcels, or Passengers Luggage, above the value of Five Pounds, unless enteied as such and paid for accordingly, at any of their offices, in town or country. H. M. POST-OFFICE PACKETS are dispatched for GUERNSEY and JERSEY every Wednesday and Saturday evenings, about 6 o’clock, and return every Tuesday and Saturday. A VAN to BATH every Tuesday, and BRISTOL on Thursday. • Excise-Office, May 12th, 1829.",
         "preds": {
-            "LOC": [
-                "Weymouth",
-                "London",
-                "Bristol",
-                "Southampton",
-                "Bath",
-                "Guernsey",
-                "Jersey",
-                "Bath",
-                "Bristol"
-            ],
-            "STREET": [
-                "Hatchets New White Horse Cellar"
-            ],
-            "BUILDING": [
-                "ROYAL DORSET",
-                "New White Horse Cellar",
-                "Saracens Head",
-                "Ludgate Hill",
-                "SOUTHAMPTON",
-                "BATH"
-            ]
+            "LOC": [],
+            "STREET": [],
+            "BUILDING": []
         }
     }
 ]
